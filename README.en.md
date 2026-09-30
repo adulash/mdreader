@@ -88,7 +88,7 @@ Shortcuts keep working when the Arabic keyboard layout is active.
 
 ## Install
 
-Get the app for free from the Microsoft Store on Windows:
+Get the app from the Microsoft Store on Windows:
 
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9p333zgrv81r">
